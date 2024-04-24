@@ -33,10 +33,6 @@ public partial class AppbContext : DbContext
     public virtual DbSet<Spot> Spots { get; set; }
 
     public virtual DbSet<Wine> Wines { get; set; }
-
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseNpgsql("Server=localhost;Database=WineBro;Port=5432;User Id =postgres;Password=postgres;");
-
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
        

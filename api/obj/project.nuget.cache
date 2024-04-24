@@ -54,5 +54,12 @@
     "/home/gregster/.nuget/packages/system.text.json/9.0.0-preview.3.24172.9/system.text.json.9.0.0-preview.3.24172.9.nupkg.sha512",
     "/home/gregster/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file /home/gregster/RiderProjects/api/api/obj/project.nuget.cache : Found invalid data while decoding."
+    }
+  ]
 }
