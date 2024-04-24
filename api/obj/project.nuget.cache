@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dwM21JYL5JC47pqSMPPSwrWm/u6w+cLo1vvosY6mhPmbbkWwz6l5ejX7uynoehGqsWxf0P+7B/54MKUTNGp7cg==",
+  "dgSpecHash": "vqg6PrCkMFUgLSGV1d7prh5ESeFtpoFqc7APtya/lxxW71NATzXB3RDfXOgfoDaZei41UBFhkSMHZshDxWCyWw==",
   "success": true,
   "projectFilePath": "/home/gregster/RiderProjects/api/api/api.csproj",
   "expectedPackageFiles": [
@@ -23,10 +23,16 @@
     "/home/gregster/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/home/gregster/.nuget/packages/microsoft.extensions.caching.abstractions/9.0.0-preview.3.24172.9/microsoft.extensions.caching.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512",
     "/home/gregster/.nuget/packages/microsoft.extensions.caching.memory/9.0.0-preview.3.24172.9/microsoft.extensions.caching.memory.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "/home/gregster/.nuget/packages/microsoft.extensions.configuration/9.0.0-preview.3.24172.9/microsoft.extensions.configuration.9.0.0-preview.3.24172.9.nupkg.sha512",
     "/home/gregster/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.0-preview.3.24172.9/microsoft.extensions.configuration.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "/home/gregster/.nuget/packages/microsoft.extensions.configuration.fileextensions/9.0.0-preview.3.24172.9/microsoft.extensions.configuration.fileextensions.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "/home/gregster/.nuget/packages/microsoft.extensions.configuration.json/9.0.0-preview.3.24172.9/microsoft.extensions.configuration.json.9.0.0-preview.3.24172.9.nupkg.sha512",
     "/home/gregster/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.0-preview.3.24172.9/microsoft.extensions.dependencyinjection.9.0.0-preview.3.24172.9.nupkg.sha512",
     "/home/gregster/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0-preview.3.24172.9/microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512",
     "/home/gregster/.nuget/packages/microsoft.extensions.dependencymodel/9.0.0-preview.3.24172.9/microsoft.extensions.dependencymodel.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "/home/gregster/.nuget/packages/microsoft.extensions.fileproviders.abstractions/9.0.0-preview.3.24172.9/microsoft.extensions.fileproviders.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "/home/gregster/.nuget/packages/microsoft.extensions.fileproviders.physical/9.0.0-preview.3.24172.9/microsoft.extensions.fileproviders.physical.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "/home/gregster/.nuget/packages/microsoft.extensions.filesystemglobbing/9.0.0-preview.3.24172.9/microsoft.extensions.filesystemglobbing.9.0.0-preview.3.24172.9.nupkg.sha512",
     "/home/gregster/.nuget/packages/microsoft.extensions.logging/9.0.0-preview.3.24172.9/microsoft.extensions.logging.9.0.0-preview.3.24172.9.nupkg.sha512",
     "/home/gregster/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.0-preview.3.24172.9/microsoft.extensions.logging.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512",
     "/home/gregster/.nuget/packages/microsoft.extensions.options/9.0.0-preview.3.24172.9/microsoft.extensions.options.9.0.0-preview.3.24172.9.nupkg.sha512",
@@ -54,12 +60,5 @@
     "/home/gregster/.nuget/packages/system.text.json/9.0.0-preview.3.24172.9/system.text.json.9.0.0-preview.3.24172.9.nupkg.sha512",
     "/home/gregster/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file /home/gregster/RiderProjects/api/api/obj/project.nuget.cache : Found invalid data while decoding."
-    }
-  ]
+  "logs": []
 }
