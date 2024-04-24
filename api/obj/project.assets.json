@@ -3469,11 +3469,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gregster/RiderProjects/api/api/api.csproj",
+      "projectUniqueName": "/home/gregster/RiderProjects/api1/calm-springs-48212/api/api.csproj",
       "projectName": "api",
-      "projectPath": "/home/gregster/RiderProjects/api/api/api.csproj",
+      "projectPath": "/home/gregster/RiderProjects/api1/calm-springs-48212/api/api.csproj",
       "packagesPath": "/home/gregster/.nuget/packages/",
-      "outputPath": "/home/gregster/RiderProjects/api/api/obj/",
+      "outputPath": "/home/gregster/RiderProjects/api1/calm-springs-48212/api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/gregster/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vqg6PrCkMFUgLSGV1d7prh5ESeFtpoFqc7APtya/lxxW71NATzXB3RDfXOgfoDaZei41UBFhkSMHZshDxWCyWw==",
+  "dgSpecHash": "4ofid0xCrIaEWGYqWccgJOYbQ58oIQIzt5cCL9MFuiKv5dPV+01fasuoSDpZHKYgBtqAPQ9Qf9tOWeEdL4XdLg==",
   "success": true,
-  "projectFilePath": "/home/gregster/RiderProjects/api/api/api.csproj",
+  "projectFilePath": "/home/gregster/RiderProjects/api1/calm-springs-48212/api/api.csproj",
   "expectedPackageFiles": [
     "/home/gregster/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/gregster/.nuget/packages/mapster/7.4.1-pre01/mapster.7.4.1-pre01.nupkg.sha512",
