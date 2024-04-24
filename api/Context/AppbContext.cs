@@ -36,7 +36,7 @@ public partial class AppbContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseNpgsql("Server=localhost;Database=WineBro;Port=5432;User Id =postgres;Password=postgres;");
+        optionsBuilder.UseNpgsql("Server=ceu9lmqblp8t3q.cluster-czrs8kj4isg7.us-east-1.rds.amazonaws.com;Database=d6b0b9dhmqj0dm;Port=5432;User Id =u61jk4d666uhl3;Password=pdb9a3197b3d57da2f5f53bfa515b3ae4a2ceec5c1c7503ef9d1d41f30f5f3210\n;");
     }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
