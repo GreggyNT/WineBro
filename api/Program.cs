@@ -11,10 +11,7 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddDbContext<AppbContext>(opt =>
-{
-    opt.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection"));
-});
+builder.Services.AddDbContext<AppbContext>();
 builder.Services.AddTransient<IService<WineDto, Wine>,BaseService<Wine,WineDto>>();
 builder.Services.AddTransient<IService<CountryDto, Country>,BaseService<Country,CountryDto>>();
 builder.Services.AddTransient<IService<ProducerDto, Producer>,BaseService<Producer,ProducerDto>>();
